@@ -2,123 +2,244 @@
     "questions": [
   {
     "id": 1,
-    "question": "Which Bollywood movie is known for the song 'Lag Jaa Gale' sung by Lata Mangeshkar?",
-    "options": ["Mera Saaya", "Barsaat Ki Raat", "Chupke Chupke", "Kabhi Kabhie"],
-    "answer": "Mera Saaya"
+    "question": "Who played the role of 'Mogambo' in the film 'Mr. India'?",
+    "options": ["Amrish Puri", "Pran", "Kader Khan", "Prem Chopra"],
+    "answer": "Amrish Puri"
   },
   {
     "id": 2,
-    "question": "In the movie 'Mother India', who played the role of 'Radha'?",
-    "options": ["Meena Kumari", "Vyjayanthimala", "Nargis", "Madhubala"],
-    "answer": "Nargis"
+    "question": "Which film is known as India's first 3D dance film?",
+    "options": ["ABCD - Any Body Can Dance", "Dil To Pagal Hai", "Street Dancer 3D", "Jab Harry Met Sejal"],
+    "answer": "ABCD - Any Body Can Dance"
   },
- {
+  {
     "id": 3,
-    "question": "Which Bollywood movie is known for the song 'Chikni Chameli' featuring Katrina Kaif?",
-    "options": ["Bang Bang", "Ek Tha Tiger", "Agneepath", "Tiger Zinda Hai"],
-    "answer": "Agneepath"
+    "question": "In the film 'Sholay', who played the role of 'Gabbar Singh'?",
+    "options": ["Amjad Khan", "Amitabh Bachchan", "Dharmendra", "Sanjeev Kumar"],
+    "answer": "Amjad Khan"
   },
   {
     "id": 4,
-    "question": "Who played the role of 'Raj Aryan Malhotra' in the movie 'Mohabbatein'?",
-    "options": ["Shah Rukh Khan", "Amitabh Bachchan", "Hrithik Roshan", "Abhishek Bachchan"],
-    "answer": "Shah Rukh Khan"
+    "question": "Which Bollywood actress won the Miss World title in 1994?",
+    "options": ["Aishwarya Rai", "Priyanka Chopra", "Sushmita Sen", "Lara Dutta"],
+    "answer": "Aishwarya Rai"
   },
   {
     "id": 5,
-    "question": "Which Bollywood movie is based on the life of Indian mathematician 'Anand Kumar'?",
-    "options": ["Super 30", "Raman Raghav 2.0", "Talaash", "Black Friday"],
-    "answer": "Super 30"
+    "question": "Who directed the film 'Mughal-e-Azam'?",
+    "options": ["Guru Dutt", "K. Asif", "Raj Kapoor", "Bimal Roy"],
+    "answer": "K. Asif"
   },
   {
     "id": 6,
-    "question": "In the movie 'Shahenshah', who played the role of the titular character?",
-    "options": ["Dharmendra", "Amitabh Bachchan", "Vinod Khanna", "Rajesh Khanna"],
-    "answer": "Amitabh Bachchan"
+    "question": "Which film is based on the life of the Indian cricketer Mahendra Singh Dhoni?",
+    "options": ["MS Dhoni: The Untold Story", "Sachin: A Billion Dreams", "Azhar", "Dhoni"],
+    "answer": "MS Dhoni: The Untold Story"
   },
   {
     "id": 7,
-    "question": "Which Bollywood movie is known for the song 'Ae Mere Humsafar'?",
-    "options": ["Baazigar", "Qayamat Se Qayamat Tak", "Jo Jeeta Wohi Sikandar", "Dil Hai Ke Manta Nahin"],
-    "answer": "Qayamat Se Qayamat Tak"
+    "question": "Who played the role of 'Anjali' in the film 'Kuch Kuch Hota Hai'?",
+    "options": ["Kajol", "Rani Mukerji", "Karisma Kapoor", "Preity Zinta"],
+    "answer": "Kajol"
   },
   {
     "id": 8,
-    "question": "Who played the role of 'Sunil' in the movie 'Kabhi Haan Kabhi Naa'?",
-    "options": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Rahul Roy"],
-    "answer": "Shah Rukh Khan"
+    "question": "Which film is known as India's first feature film?",
+    "options": ["Raja Harishchandra", "Mother India", "Mughal-e-Azam", "Sholay"],
+    "answer": "Raja Harishchandra"
   },
   {
     "id": 9,
-    "question": "Which Bollywood movie is known for the song 'Ae Mere Watan Ke Logo' sung by Lata Mangeshkar?",
-    "options": ["Guide", "Mother India", "Mera Naam Joker", "Upkar"],
-    "answer": "Mera Naam Joker"
+    "question": "Which Bollywood actor is also known as the 'King of Romance'?",
+    "options": ["Shah Rukh Khan", "Salman Khan", "Aamir Khan", "Hrithik Roshan"],
+    "answer": "Shah Rukh Khan"
   },
   {
     "id": 10,
-    "question": "Who played the role of 'Dutt Saab' in the movie 'Sanju'?",
-    "options": ["Sanjay Dutt", "Paresh Rawal", "Anil Kapoor", "Sunil Dutt"],
-    "answer": "Paresh Rawal"
+    "question": "In the film 'Dilwale Dulhania Le Jayenge', which actress played the role of 'Simran'?",
+    "options": ["Kajol", "Madhuri Dixit", "Juhi Chawla", "Rani Mukerji"],
+    "answer": "Kajol"
   },
   {
     "id": 11,
-    "question": "Which Bollywood movie features a character named 'Munna Bhai' who pretends to be a doctor?",
-    "options": ["Munna Bhai M.B.B.S.", "Housefull", "Golmaal Again", "Phir Hera Pheri"],
-    "answer": "Munna Bhai M.B.B.S."
+    "question": "Who composed the music for the film 'Sholay'?",
+    "options": ["R.D. Burman", "Laxmikant-Pyarelal", "Anand-Milind", "Kalyanji-Anandji"],
+    "answer": "R.D. Burman"
   },
   {
     "id": 12,
-    "question": "In the movie 'Kuch Kuch Hota Hai', who played the role of 'Anjali'?",
-    "options": ["Kajol", "Rani Mukerji", "Preity Zinta", "Kareena Kapoor"],
-    "answer": "Kajol"
+    "question": "Which Bollywood actor won the National Film Award for Best Actor for the film 'Masaan'?",
+    "options": ["Irrfan Khan", "Nawazuddin Siddiqui", "Rajkummar Rao", "Vicky Kaushal"],
+    "answer": "Vicky Kaushal"
   },
   {
     "id": 13,
-    "question": "Which Bollywood movie features a character named 'Mogli' raised by wolves?",
-    "options": ["Krrish", "Barfi!", "Talaash", "Jungle Book"],
-    "answer": "Jungle Book"
+    "question": "In the film 'Sholay', which actor played the role of 'Veeru'?",
+    "options": ["Dharmendra", "Amitabh Bachchan", "Sanjeev Kumar", "Hema Malini"],
+    "answer": "Dharmendra"
   },
   {
     "id": 14,
-    "question": "Who played the role of 'Chulbul Pandey' in the movie 'Dabangg'?",
-    "options": ["Aamir Khan", "Salman Khan", "Shah Rukh Khan", "Akshay Kumar"],
-    "answer": "Salman Khan"
+    "question": "Which Bollywood actress is also known as the 'Queen of Bollywood'?",
+    "options": ["Kangana Ranaut", "Deepika Padukone", "Priyanka Chopra", "Kareena Kapoor Khan"],
+    "answer": "Kangana Ranaut"
   },
   {
     "id": 15,
-    "question": "Which Bollywood movie is known for the song 'Chikni Chameli' featuring Katrina Kaif?",
-    "options": ["Bang Bang", "Ek Tha Tiger", "Agneepath", "Tiger Zinda Hai"],
-    "answer": "Agneepath"
+    "question": "Who directed the film 'Dil Chahta Hai'?",
+    "options": ["Karan Johar", "Farhan Akhtar", "Aditya Chopra", "Sanjay Leela Bhansali"],
+    "answer": "Farhan Akhtar"
   },
   {
     "id": 16,
-    "question": "In the movie 'Kuch Kuch Hota Hai', who played the role of 'Anjali'?",
-    "options": ["Kajol", "Rani Mukerji", "Preity Zinta", "Kareena Kapoor"],
-    "answer": "Kajol"
+    "question": "Which film is the highest-grossing Bollywood film of all time?",
+    "options": ["Dangal", "Baahubali 2: The Conclusion", "Bajrangi Bhaijaan", "PK"],
+    "answer": "Baahubali 2: The Conclusion"
   },
   {
     "id": 17,
-    "question": "Which Bollywood movie features a father who poses as a pregnant woman?",
-    "options": ["Deewana Mastana", "Hera Pheri", "No Entry", "Golmaal 3"],
-    "answer": "Hera Pheri"
+    "question": "Who played the role of 'Munna Bhai' in the film 'Munna Bhai M.B.B.S.'?",
+    "options": ["Aamir Khan", "Salman Khan", "Sanjay Dutt", "Ranbir Kapoor"],
+    "answer": "Sanjay Dutt"
   },
   {
     "id": 18,
-    "question": "Who played the role of 'Simran' in the movie 'Dilwale Dulhania Le Jayenge'?",
-    "options": ["Kajol", "Madhuri Dixit", "Preity Zinta", "Juhi Chawla"],
-    "answer": "Kajol"
+    "question": "Which Bollywood actor is also known as the 'Greek God of Bollywood'?",
+    "options": ["Hrithik Roshan", "Ranbir Kapoor", "Varun Dhawan", "Tiger Shroff"],
+    "answer": "Hrithik Roshan"
   },
   {
     "id": 19,
-    "question": "Which Bollywood movie features a character named 'Munna Bhai' who pretends to be a doctor?",
-    "options": ["Munna Bhai M.B.B.S.", "Housefull", "Golmaal Again", "Phir Hera Pheri"],
-    "answer": "Munna Bhai M.B.B.S."
+    "question": "Who directed the film 'Lagaan'?",
+    "options": ["Rakeysh Omprakash Mehra", "Ashutosh Gowariker", "Rajkumar Hirani", "Sanjay Leela Bhansali"],
+    "answer": "Ashutosh Gowariker"
   },
   {
     "id": 20,
-    "question": "In the movie 'Sholay', who played the role of 'Gabbar Singh'?",
-    "options": ["Amjad Khan", "Amrish Puri", "Prem Chopra", "Pran"],
-    "answer": "Amjad Khan"
+    "question": "In the film 'Kabhi Khushi Kabhie Gham', who played the role of 'Rahul'?",
+    "options": ["Shah Rukh Khan", "Hrithik Roshan", "Amitabh Bachchan", "Ranbir Kapoor"],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 21,
+    "question": "Which Bollywood actor won the National Film Award for Best Actor for the film 'Haider'?",
+    "options": ["Irrfan Khan", "Nawazuddin Siddiqui", "Rajkummar Rao", "Shahid Kapoor"],
+    "answer": "Shahid Kapoor"
+  },
+  {
+    "id": 22,
+    "question": "Who composed the music for the film 'Dilwale Dulhania Le Jayenge'?",
+    "options": ["R.D. Burman", "A.R. Rahman", "Anand-Milind", "Jatin-Lalit"],
+    "answer": "Jatin-Lalit"
+  },
+  {
+    "id": 23,
+    "question": "In the film 'Bajrangi Bhaijaan', which actress played the role of 'Munni'?",
+    "options": ["Alia Bhatt", "Kareena Kapoor Khan", "Katrina Kaif", "Harshaali Malhotra"],
+    "answer": "Harshaali Malhotra"
+  },
+  {
+    "id": 24,
+    "question": "Which Bollywood actress is also known as the 'Desi Girl'?",
+    "options": ["Deepika Padukone", "Priyanka Chopra", "Kangana Ranaut", "Anushka Sharma"],
+    "answer": "Priyanka Chopra"
+  },
+  {
+    "id": 25,
+    "question": "Who played the role of 'Simran' in the film 'Dil To Pagal Hai'?",
+    "options": ["Kajol", "Madhuri Dixit", "Juhi Chawla", "Karisma Kapoor"],
+    "answer": "Karisma Kapoor"
+  },
+  {
+    "id": 26,
+    "question": "Which film is the highest-grossing Bollywood film of the 1990s?",
+    "options": ["Hum Aapke Hain Koun..!", "Dil To Pagal Hai", "Kuch Kuch Hota Hai", "Dilwale Dulhania Le Jayenge"],
+    "answer": "Hum Aapke Hain Koun..!"
+  },
+  {
+    "id": 27,
+    "question": "Who played the role of 'Bhuvan' in the film 'Lagaan'?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Akshay Kumar"],
+    "answer": "Aamir Khan"
+  },
+  {
+    "id": 28,
+    "question": "Which Bollywood actor won the National Film Award for Best Actor for the film 'Paan Singh Tomar'?",
+    "options": ["Irrfan Khan", "Nawazuddin Siddiqui", "Rajkummar Rao", "Irrfan Khan"],
+    "answer": "Irrfan Khan"
+  },
+  {
+    "id": 29,
+    "question": "Who composed the music for the film 'Shree 420'?",
+    "options": ["S.D. Burman", "Laxmikant-Pyarelal", "Shankar-Jaikishan", "R.D. Burman"],
+    "answer": "Shankar-Jaikishan"
+  },
+  {
+    "id": 30,
+    "question": "In the film 'Dil Chahta Hai', who played the role of 'Akash'?",
+    "options": ["Aamir Khan", "Akshay Kumar", "Saif Ali Khan", "Hrithik Roshan"],
+    "answer": "Aamir Khan"
+  },
+  {
+    "id": 31,
+    "question": "Which Bollywood actress is also known as the 'Dhak-Dhak Girl'?",
+    "options": ["Madhuri Dixit", "Kajol", "Juhi Chawla", "Raveena Tandon"],
+    "answer": "Madhuri Dixit"
+  },
+  {
+    "id": 32,
+    "question": "Who played the role of 'Munni' in the film 'Dabangg'?",
+    "options": ["Sonam Kapoor", "Kareena Kapoor Khan", "Katrina Kaif", "Malaika Arora"],
+    "answer": "Malaika Arora"
+  },
+  {
+    "id": 33,
+    "question": "Which Bollywood actor is also known as the 'Bhaijaan' of Bollywood?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Akshay Kumar"],
+    "answer": "Salman Khan"
+  },
+  {
+    "id": 34,
+    "question": "Who played the role of 'Majnu Bhai' in the film 'Welcome'?",
+    "options": ["Anil Kapoor", "Nana Patekar", "Paresh Rawal", "Akshay Kumar"],
+    "answer": "Anil Kapoor"
+  },
+  {
+    "id": 35,
+    "question": "Which film won the National Film Award for Best Feature Film in Hindi in 2019?",
+    "options": ["Uri: The Surgical Strike", "Andhadhun", "Badhaai Ho", "Article 15"],
+    "answer": "Andhadhun"
+  },
+  {
+    "id": 36,
+    "question": "Who played the role of 'Raj' in the film 'Dilwale Dulhania Le Jayenge'?",
+    "options": ["Shah Rukh Khan", "Salman Khan", "Aamir Khan", "Hrithik Roshan"],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 37,
+    "question": "Which Bollywood actress won the National Film Award for Best Actress for the film 'Piku'?",
+    "options": ["Kangana Ranaut", "Deepika Padukone", "Vidya Balan", "Priyanka Chopra"],
+    "answer": "Deepika Padukone"
+  },
+  {
+    "id": 38,
+    "question": "Who played the role of 'Bajirao' in the film 'Bajirao Mastani'?",
+    "options": ["Shah Rukh Khan", "Ranbir Kapoor", "Ranveer Singh", "Akshay Kumar"],
+    "answer": "Ranveer Singh"
+  },
+  {
+    "id": 39,
+    "question": "Which film is the highest-grossing Bollywood film of the 2000s?",
+    "options": ["Kabhi Khushi Kabhie Gham", "Kuch Kuch Hota Hai", "Gadar: Ek Prem Katha", "Dil To Pagal Hai"],
+    "answer": "Gadar: Ek Prem Katha"
+  },
+  {
+    "id": 40,
+    "question": "Who played the role of 'Milkha Singh' in the film 'Bhaag Milkha Bhaag'?",
+    "options": ["Aamir Khan", "Shah Rukh Khan", "Farhan Akhtar", "Akshay Kumar"],
+    "answer": "Farhan Akhtar"
   }
 ]
+
 }
