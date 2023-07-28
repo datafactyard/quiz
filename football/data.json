@@ -1,0 +1,244 @@
+{
+    "questions": [
+  {
+    "id": 1,
+    "question": "Which player has won the most Ballon d'Or awards?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Michel Platini", "Johan Cruyff"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 2,
+    "question": "Which club has won the most UEFA Champions League titles?",
+    "options": ["Real Madrid", "FC Barcelona", "AC Milan", "Bayern Munich"],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 3,
+    "question": "Who holds the record for the most goals scored in a single FIFA World Cup tournament?",
+    "options": ["Just Fontaine", "Pele", "Gerd Muller", "Thomas Muller"],
+    "answer": "Just Fontaine"
+  },
+  {
+    "id": 4,
+    "question": "Which player has the most assists in Premier League history?",
+    "options": ["Cesc Fabregas", "Thierry Henry", "Ryan Giggs", "Frank Lampard"],
+    "answer": "Ryan Giggs"
+  },
+  {
+    "id": 5,
+    "question": "Who holds the record for the most goals scored in a single La Liga season?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sanchez"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 6,
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "id": 7,
+    "question": "Who is the all-time leading goal scorer in international football?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Pele", "Marta"],
+    "answer": "Ali Daei"
+  },
+  {
+    "id": 8,
+    "question": "Which club has won the most English Premier League titles?",
+    "options": ["Manchester United", "Liverpool", "Arsenal", "Chelsea"],
+    "answer": "Manchester United"
+  },
+  {
+    "id": 9,
+    "question": "Who is the only player to have won the FIFA World Cup as both a player and a coach?",
+    "options": ["Franz Beckenbauer", "Diego Maradona", "Zinedine Zidane", "Pele"],
+    "answer": "Franz Beckenbauer"
+  },
+  {
+    "id": 10,
+    "question": "Which player has the most goals in UEFA Champions League history?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Raul", "Robert Lewandowski"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 11,
+    "question": "Which club has won the most Serie A titles?",
+    "options": ["AC Milan", "Inter Milan", "Juventus", "AS Roma"],
+    "answer": "Juventus"
+  },
+  {
+    "id": 12,
+    "question": "Who is the youngest player to score a hat-trick in FIFA World Cup history?",
+    "options": ["Pele", "Michael Owen", "Kylian Mbappe", "Diego Maradona"],
+    "answer": "Pele"
+  },
+  {
+    "id": 13,
+    "question": "Which player has the most UEFA European Championship (Euro) titles?",
+    "options": ["Cristiano Ronaldo", "Michel Platini", "Marco van Basten", "Franz Beckenbauer"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 14,
+    "question": "Who is the only player to win the FIFA World Cup Golden Ball award three times?",
+    "options": ["Pele", "Diego Maradona", "Lionel Messi", "Zinedine Zidane"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 15,
+    "question": "Which country has won the most Copa America titles?",
+    "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
+    "answer": "Uruguay"
+  },
+  {
+    "id": 16,
+    "question": "Who is the all-time leading goal scorer in Copa del Rey history?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Telmo Zarra", "Hugo Sanchez"],
+    "answer": "Telmo Zarra"
+  },
+  {
+    "id": 17,
+    "question": "Which player has the most goals in FIFA Club World Cup history?",
+    "options": ["Cristiano Ronaldo", "Lionel Messi", "Neymar", "Luis Suarez"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 18,
+    "question": "Who holds the record for the most assists in a single Premier League season?",
+    "options": ["Thierry Henry", "Kevin De Bruyne", "Cesc Fabregas", "Mesut Ozil"],
+    "answer": "Kevin De Bruyne"
+  },
+  {
+    "id": 19,
+    "question": "Which club has won the most UEFA Europa League titles?",
+    "options": ["Sevilla", "Manchester United", "Liverpool", "AC Milan"],
+    "answer": "Sevilla"
+  },
+  {
+    "id": 20,
+    "question": "Who is the only player to win the UEFA Champions League Golden Boot four times?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Thierry Henry"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 21,
+    "question": "Which player has won the most FIFA World Cup Golden Boot awards?",
+    "options": ["Just Fontaine", "Gerd Muller", "Eusebio", "Miroslav Klose"],
+    "answer": "Just Fontaine"
+  },
+  {
+    "id": 22,
+    "question": "Who is the only player to score in three different FIFA World Cup finals?",
+    "options": ["Pele", "Diego Maradona", "Zinedine Zidane", "Marta"],
+    "answer": "Pele"
+  },
+  {
+    "id": 23,
+    "question": "Which player has the most goals in UEFA European Championship (Euro) history?",
+    "options": ["Cristiano Ronaldo", "Michel Platini", "Thierry Henry", "Zlatan Ibrahimovic"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 24,
+    "question": "Who holds the record for the most goals in a single UEFA Champions League season?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar", "Robert Lewandowski"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 25,
+    "question": "Which club has won the most FA Cup titles?",
+    "options": ["Arsenal", "Manchester United", "Chelsea", "Liverpool"],
+    "answer": "Arsenal"
+  },
+  {
+    "id": 26,
+    "question": "Who is the only player to have scored in six different FIFA World Cup editions?",
+    "options": ["Pele", "Miroslav Klose", "Diego Maradona", "Ronaldo"],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": 27,
+    "question": "Which player has won the most UEFA European Championship (Euro) Golden Boot awards?",
+    "options": ["Cristiano Ronaldo", "Michel Platini", "Marco van Basten", "Thierry Henry"],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 28,
+    "question": "Who is the all-time leading goal scorer in Bundesliga history?",
+    "options": ["Gerd Muller", "Robert Lewandowski", "Klaus Fischer", "Jupp Heynckes"],
+    "answer": "Gerd Muller"
+  },
+  {
+    "id": 29,
+    "question": "Which player has the most assists in UEFA Champions League history?",
+    "options": ["Andres Iniesta", "Ryan Giggs", "Xavi", "Lionel Messi"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 30,
+    "question": "Who is the youngest player to win the FIFA World Cup Golden Ball award?",
+    "options": ["Pele", "Diego Maradona", "Kylian Mbappe", "Ronaldo"],
+    "answer": "Kylian Mbappe"
+  },
+  {
+    "id": 31,
+    "question": "Which club has won the most Copa del Rey titles?",
+    "options": ["FC Barcelona", "Real Madrid", "Athletic Bilbao", "Valencia"],
+    "answer": "FC Barcelona"
+  },
+  {
+    "id": 32,
+    "question": "Who is the only player to have won the UEFA European Championship (Euro) as a player and a coach?",
+    "options": ["Franz Beckenbauer", "Michel Platini", "Marco van Basten", "Zinedine Zidane"],
+    "answer": "Marco van Basten"
+  },
+  {
+    "id": 33,
+    "question": "Which player has won the most UEFA Champions League Golden Boot awards?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Thierry Henry", "Robert Lewandowski"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 34,
+    "question": "Who have won the FIFA World Cup with three times?",
+    "options": ["Pele", "Diego Maradona", "Zinedine Zidane", "Ronaldo"],
+    "answer": "Pele"
+  },
+  {
+    "id": 35,
+    "question": "Which player has the most goals in FIFA World Cup history?",
+    "options": ["Miroslav Klose", "Ronaldo", "Pele", "Just Fontaine"],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": 36,
+    "question": "Who is the all-time leading goal scorer in UEFA European Championship (Euro) history?",
+    "options": ["Michel Platini", "Cristiano Ronaldo", "Thierry Henry", "Zlatan Ibrahimovic"],
+    "answer": "Michel Platini"
+  },
+  {
+    "id": 37,
+    "question": "Which club has won the most UEFA Europa League/UEFA Cup titles?",
+    "options": ["Sevilla", "Juventus", "Inter Milan", "Liverpool"],
+    "answer": "Sevilla"
+  },
+  {
+    "id": 38,
+    "question": "Who holds the record for the most clean sheets in Premier League history?",
+    "options": ["Peter Schmeichel", "Edwin van der Sar", "Petr Cech", "David de Gea"],
+    "answer": "Petr Cech"
+  },
+  {
+    "id": 39,
+    "question": "Which player has the most assists in La Liga history?",
+    "options": ["Lionel Messi", "Cristiano Ronaldo", "Xavi", "Andres Iniesta"],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 40,
+    "question": "Who is the only player to have won the FIFA World Cup Golden Boot award twice?",
+    "options": ["Just Fontaine", "Gerd Muller", "Miroslav Klose", "Ronaldo"],
+    "answer": "Just Fontaine"
+  }
+]
+}

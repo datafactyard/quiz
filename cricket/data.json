@@ -1,126 +1,240 @@
 {
     "questions": [
-      {
-        "id":1,
-        "question": "Who is the highest run-scorer in Test cricket?",
-        "options": [
-          "Sachin Tendulkar",
-          "Ricky Ponting",
-          "Virat Kohli",
-          "Alastair Cook"
-        ],
-        "answer": "Sachin Tendulkar"
-      },
-      {
-        "id":2,
-        "question": "Which bowler has taken the most wickets in Test cricket?",
-        "options": [
-          "Muttiah Muralitharan",
-          "Shane Warne",
-          "Anil Kumble",
-          "James Anderson"
-        ],
-        "answer": "Muttiah Muralitharan"
-      },
-      {
-        "id":3,
-        "question": "Who is the fastest player to score 10,000 runs in One Day Internationals (ODIs)?",
-        "options": [
-          "Sachin Tendulkar",
-          "Virat Kohli",
-          "Ricky Ponting",
-          "Brian Lara"
-        ],
-        "answer": "Virat Kohli"
-      },
-      {
-        "id":4,
-        "question": "Which country has won the most Cricket World Cup titles?",
-        "options": [
-          "Australia",
-          "India",
-          "West Indies",
-          "England"
-        ],
-        "answer": "Australia"
-      },
-      {
-        "id":5,
-        "question": "Who is the only player to score 400 runs in a single Test innings?",
-        "options": [
-          "Brian Lara",
-          "Matthew Hayden",
-          "Kumar Sangakkara",
-          "Virender Sehwag"
-        ],
-        "answer": "Brian Lara"
-      },
-      {
-        "id":6,
-        "question": "Who has scored the most centuries in international cricket?",
-        "options": [
-          "Sachin Tendulkar",
-          "Virat Kohli",
-          "Ricky Ponting",
-          "Kumar Sangakkara"
-        ],
-        "answer": "Sachin Tendulkar"
-      },
-      {
-        "id":7,
-        "question": "Which team has won the most ICC Champions Trophy titles?",
-        "options": [
-          "Australia",
-          "India",
-          "West Indies",
-          "South Africa"
-        ],
-        "answer": "India"
-      },
-      {
-        "id":8,
-        "question": "Who is the fastest bowler to reach 100 wickets in One Day Internationals (ODIs)?",
-        "options": [
-          "Mitchell Starc",
-          "Saqlain Mushtaq",
-          "Dennis Lillee",
-          "Rashid Khan"
-        ],
-        "answer": "Saqlain Mushtaq"
-      },
-      {
-        "id":9,
-        "question": "Which player has hit the most sixes in the history of T20 internationals?",
-        "options": [
-          "Chris Gayle",
-          "Rohit Sharma",
-          "Brendon McCullum",
-          "Martin Guptill"
-        ],
-        "answer": "Chris Gayle"
-      },
-      {
-        "id":10,
-        "question": "Who is the only cricketer to score a century and take 10 wickets in the same Test match?",
-        "options": [
-          "Imran Khan",
-          "Kapil Dev",
-          "Shane Watson",
-          "Ben Stokes"
-        ],
-        "answer": "Imran Khan"
-      },
-      {
-        "id":11,
-        "question": "Who is the highest wicket-taker in T20 international cricket?",
-        "options": [
-          "Lasith Malinga",
-          "Shahid Afridi",
-          "Saeed Ajmal",
-          "Umar Gul"
-        ],
-        "answer": "Lasith Malinga"
-      }
-    ]
+  {
+    "id": 1,
+    "question": "Which player has scored the most runs in a single Test match innings?",
+    "options": ["Don Bradman", "Brian Lara", "Virender Sehwag", "Chris Gayle"],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 2,
+    "question": "Who holds the record for the fastest century in One Day Internationals (ODIs)?",
+    "options": ["AB de Villiers", "Shahid Afridi", "Corey Anderson", "Brendon McCullum"],
+    "answer": "AB de Villiers"
+  },
+  {
+    "id": 3,
+    "question": "Which bowler has taken the most wickets in Test cricket?",
+    "options": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "James Anderson"],
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 4,
+    "question": "Who holds the record for the highest individual score in T20 International cricket?",
+    "options": ["Aaron Finch", "Chris Gayle", "Brendon McCullum", "Rohit Sharma"],
+    "answer": "Aaron Finch"
+  },
+  {
+    "id": 5,
+    "question": "Which team won the first-ever Cricket World Cup in 1975?",
+    "options": ["India", "Australia", "West Indies", "England"],
+    "answer": "West Indies"
+  },
+  {
+    "id": 6,
+    "question": "Who is the only player to score three double century in a One Day International (ODI) match?",
+    "options": ["Virender Sehwag", "Rohit Sharma", "Sachin Tendulkar", "Chris Gayle"],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 7,
+    "question": "Which player has the most centuries in Test cricket?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Virat Kohli", "Kumar Sangakkara"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 8,
+    "question": "Who is the fastest bowler to reach 400 wickets in Test cricket?",
+    "options": ["Dale Steyn", "Wasim Akram", "Richard Hadlee", "Muttiah Muralitharan"],
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 9,
+    "question": "Which player has the most sixes in T20 International cricket?",
+    "options": ["Shahid Afridi", "Chris Gayle", "Rohit Sharma", "Martin Guptill"],
+    "answer": "Chris Gayle"
+  },
+  {
+    "id": 10,
+    "question": "Which team won the ICC Cricket World Cup in 2011?",
+    "options": ["India", "Sri Lanka", "Australia", "Pakistan"],
+    "answer": "India"
+  },
+  {
+    "id": 11,
+    "question": "Who is the only player to score a triple century in Test cricket twice?",
+    "options": ["Don Bradman", "Brian Lara", "Virender Sehwag", "Kumar Sangakkara"],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 12,
+    "question": "Which bowler has the best bowling figures in Test cricket?",
+    "options": ["Jim Laker", "Anil Kumble", "Muttiah Muralitharan", "Shane Warne"],
+    "answer": "Jim Laker"
+  },
+  {
+    "id": 13,
+    "question": "Who holds the record for the highest individual score in One Day Internationals (ODIs)?",
+    "options": ["Rohit Sharma", "Martin Guptill", "Fakhar Zaman", "Sachin Tendulkar"],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 14,
+    "question": "Which player has scored the most runs in Test cricket?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Jacques Kallis"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 15,
+    "question": "Who is the highest run-scorer in T20 International cricket?",
+    "options": ["Martin Guptill", "Virat Kohli", "Chris Gayle", "Rohit Sharma"],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 16,
+    "question": "Which bowler has taken the most wickets in One Day Internationals (ODIs)?",
+    "options": ["Waqar Younis", "Shane Warne", "Wasim Akram", "Muttiah Muralitharan"],
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 17,
+    "question": "Who is the youngest player to score a century in Test cricket?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Mohammad Ashraful"],
+    "answer": "Mohammad Ashraful"
+  },
+  {
+    "id": 18,
+    "question": "Which player has won the most Man of the Match awards in Test cricket?",
+    "options": ["Jacques Kallis", "Sachin Tendulkar", "Shane Warne", "Rahul Dravid"],
+    "answer": "Jacques Kallis"
+  },
+  {
+    "id": 19,
+    "question": "Who is the fastest player to reach 10,000 runs in One Day Internationals (ODIs)?",
+    "options": ["Sachin Tendulkar", "Rohit Sharma", "Virat Kohli", "Brian Lara"],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 20,
+    "question": "Which player has the most wickets in T20 International cricket?",
+    "options": ["Lasith Malinga", "Shakib Al Hasan", "Saeed Ajmal", "Rashid Khan"],
+    "answer": "Shakib Al Hasan"
+  },
+  {
+    "id": 21,
+    "question": "Who holds the record for the highest individual score in a Test match debut?",
+    "options": ["Andy Sandham", "Brendon Kuruppu", "Shikhar Dhawan", "Lawrence Rowe"],
+    "answer": "Lawrence Rowe"
+  },
+  {
+    "id": 22,
+    "question": "Which player has the most half-centuries in One Day Internationals (ODIs)?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Jacques Kallis"],
+    "answer": "Kumar Sangakkara"
+  },
+  {
+    "id": 23,
+    "question": "Who holds the record for the most catches in Test cricket by a fielder?",
+    "options": ["Jacques Kallis", "Rahul Dravid", "Mahela Jayawardene", "Mark Waugh"],
+    "answer": "Rahul Dravid"
+  },
+  {
+    "id": 24,
+    "question": "Which player has won the most Man of the Match awards in One Day Internationals (ODIs)?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Sanath Jayasuriya", "Jacques Kallis"],
+    "answer": "Sanath Jayasuriya"
+  },
+  {
+    "id": 25,
+    "question": "Who is the fastest bowler to reach 300 wickets in One Day Internationals (ODIs)?",
+    "options": ["Wasim Akram", "Mitchell Starc", "Saqlain Mushtaq", "Brett Lee"],
+    "answer": "Saqlain Mushtaq"
+  },
+  {
+    "id": 26,
+    "question": "Which player has the highest batting average in Test cricket?",
+    "options": ["Donald Bradman", "Kumar Sangakkara", "Steve Smith", "Jacques Kallis"],
+    "answer": "Donald Bradman"
+  },
+  {
+    "id": 27,
+    "question": "Who holds the record for the highest individual score in Test cricket?",
+    "options": ["Brian Lara", "Matthew Hayden", "Virender Sehwag", "Mahela Jayawardene"],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 28,
+    "question": "Which bowler has the best bowling figures in One Day Internationals (ODIs)?",
+    "options": ["Chaminda Vaas", "Anil Kumble", "Shahid Afridi", "Shane Bond"],
+    "answer": "Chaminda Vaas"
+  },
+  {
+    "id": 29,
+    "question": "Who is the fastest player to reach 10,000 runs in Test cricket?",
+    "options": ["Brian Lara", "Kumar Sangakkara", "Ricky Ponting", "Sachin Tendulkar"],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 30,
+    "question": "Which player has won the most Man of the Match awards in T20 International cricket?",
+    "options": ["Shahid Afridi", "Chris Gayle", "Rohit Sharma", "Virat Kohli"],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 31,
+    "question": "Who holds the record for the most dismissals by a wicket-keeper in Test cricket?",
+    "options": ["Adam Gilchrist", "Mark Boucher", "Kumar Sangakkara", "Rod Marsh"],
+    "answer": "Mark Boucher"
+  },
+  {
+    "id": 32,
+    "question": "Which player has the most centuries in One Day Internationals (ODIs)?",
+    "options": ["Sachin Tendulkar", "Rohit Sharma", "Virat Kohli", "Ricky Ponting"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 33,
+    "question": "Who is the fastest bowler to reach 500 wickets in Test cricket?",
+    "options": ["Dale Steyn", "Richard Hadlee", "Muttiah Muralitharan", "Rangana Herath"],
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 34,
+    "question": "Which player has won the most Man of the Series awards in Test cricket?",
+    "options": ["Jacques Kallis", "Sachin Tendulkar", "Shane Warne", "Rahul Dravid"],
+    "answer": "Jacques Kallis"
+  },
+  {
+    "id": 35,
+    "question": "Who is the highest run-scorer in Test cricket?",
+    "options": ["Sachin Tendulkar", "Ricky Ponting", "Kumar Sangakkara", "Jacques Kallis"],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 36,
+    "question": "Which player has scored the most runs in a single ICC Cricket World Cup edition?",
+    "options": ["Ricky Ponting", "Kumar Sangakkara", "Sachin Tendulkar", "Martin Guptill"],
+    "answer": "Kumar Sangakkara"
+  },
+  {
+    "id": 37,
+    "question": "Who holds the record for the highest individual score in T20 cricket?",
+    "options": ["Chris Gayle", "Aaron Finch", "Brendon McCullum", "David Warner"],
+    "answer": "Chris Gayle"
+  },
+  {
+    "id": 38,
+    "question": "Who is the youngest player to score a century in One Day Internationals (ODIs)?",
+    "options": ["Sachin Tendulkar", "Shahid Afridi", "Ricky Ponting", "Amla"],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": 39,
+    "question": "Which player has won the most ICC Cricketer of the Year awards?",
+    "options": ["Jacques Kallis", "Ricky Ponting", "Sachin Tendulkar", "Kumar Sangakkara"],
+    "answer": "Kumar Sangakkara"
+  }
+]
+
   
 }

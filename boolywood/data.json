@@ -1,0 +1,124 @@
+{
+    "questions": [
+  {
+    "id": 1,
+    "question": "Which Bollywood movie is known for the song 'Lag Jaa Gale' sung by Lata Mangeshkar?",
+    "options": ["Mera Saaya", "Barsaat Ki Raat", "Chupke Chupke", "Kabhi Kabhie"],
+    "answer": "Mera Saaya"
+  },
+  {
+    "id": 2,
+    "question": "In the movie 'Mother India', who played the role of 'Radha'?",
+    "options": ["Meena Kumari", "Vyjayanthimala", "Nargis", "Madhubala"],
+    "answer": "Nargis"
+  },
+ {
+    "id": 3,
+    "question": "Which Bollywood movie is known for the song 'Chikni Chameli' featuring Katrina Kaif?",
+    "options": ["Bang Bang", "Ek Tha Tiger", "Agneepath", "Tiger Zinda Hai"],
+    "answer": "Agneepath"
+  },
+  {
+    "id": 4,
+    "question": "Who played the role of 'Raj Aryan Malhotra' in the movie 'Mohabbatein'?",
+    "options": ["Shah Rukh Khan", "Amitabh Bachchan", "Hrithik Roshan", "Abhishek Bachchan"],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 5,
+    "question": "Which Bollywood movie is based on the life of Indian mathematician 'Anand Kumar'?",
+    "options": ["Super 30", "Raman Raghav 2.0", "Talaash", "Black Friday"],
+    "answer": "Super 30"
+  },
+  {
+    "id": 6,
+    "question": "In the movie 'Shahenshah', who played the role of the titular character?",
+    "options": ["Dharmendra", "Amitabh Bachchan", "Vinod Khanna", "Rajesh Khanna"],
+    "answer": "Amitabh Bachchan"
+  },
+  {
+    "id": 7,
+    "question": "Which Bollywood movie is known for the song 'Ae Mere Humsafar'?",
+    "options": ["Baazigar", "Qayamat Se Qayamat Tak", "Jo Jeeta Wohi Sikandar", "Dil Hai Ke Manta Nahin"],
+    "answer": "Qayamat Se Qayamat Tak"
+  },
+  {
+    "id": 8,
+    "question": "Who played the role of 'Sunil' in the movie 'Kabhi Haan Kabhi Naa'?",
+    "options": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Rahul Roy"],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 9,
+    "question": "Which Bollywood movie is known for the song 'Ae Mere Watan Ke Logo' sung by Lata Mangeshkar?",
+    "options": ["Guide", "Mother India", "Mera Naam Joker", "Upkar"],
+    "answer": "Mera Naam Joker"
+  },
+  {
+    "id": 10,
+    "question": "Who played the role of 'Dutt Saab' in the movie 'Sanju'?",
+    "options": ["Sanjay Dutt", "Paresh Rawal", "Anil Kapoor", "Sunil Dutt"],
+    "answer": "Paresh Rawal"
+  },
+  {
+    "id": 11,
+    "question": "Which Bollywood movie features a character named 'Munna Bhai' who pretends to be a doctor?",
+    "options": ["Munna Bhai M.B.B.S.", "Housefull", "Golmaal Again", "Phir Hera Pheri"],
+    "answer": "Munna Bhai M.B.B.S."
+  },
+  {
+    "id": 12,
+    "question": "In the movie 'Kuch Kuch Hota Hai', who played the role of 'Anjali'?",
+    "options": ["Kajol", "Rani Mukerji", "Preity Zinta", "Kareena Kapoor"],
+    "answer": "Kajol"
+  },
+  {
+    "id": 13,
+    "question": "Which Bollywood movie features a character named 'Mogli' raised by wolves?",
+    "options": ["Krrish", "Barfi!", "Talaash", "Jungle Book"],
+    "answer": "Jungle Book"
+  },
+  {
+    "id": 14,
+    "question": "Who played the role of 'Chulbul Pandey' in the movie 'Dabangg'?",
+    "options": ["Aamir Khan", "Salman Khan", "Shah Rukh Khan", "Akshay Kumar"],
+    "answer": "Salman Khan"
+  },
+  {
+    "id": 15,
+    "question": "Which Bollywood movie is known for the song 'Chikni Chameli' featuring Katrina Kaif?",
+    "options": ["Bang Bang", "Ek Tha Tiger", "Agneepath", "Tiger Zinda Hai"],
+    "answer": "Agneepath"
+  },
+  {
+    "id": 16,
+    "question": "In the movie 'Kuch Kuch Hota Hai', who played the role of 'Anjali'?",
+    "options": ["Kajol", "Rani Mukerji", "Preity Zinta", "Kareena Kapoor"],
+    "answer": "Kajol"
+  },
+  {
+    "id": 17,
+    "question": "Which Bollywood movie features a father who poses as a pregnant woman?",
+    "options": ["Deewana Mastana", "Hera Pheri", "No Entry", "Golmaal 3"],
+    "answer": "Hera Pheri"
+  },
+  {
+    "id": 18,
+    "question": "Who played the role of 'Simran' in the movie 'Dilwale Dulhania Le Jayenge'?",
+    "options": ["Kajol", "Madhuri Dixit", "Preity Zinta", "Juhi Chawla"],
+    "answer": "Kajol"
+  },
+  {
+    "id": 19,
+    "question": "Which Bollywood movie features a character named 'Munna Bhai' who pretends to be a doctor?",
+    "options": ["Munna Bhai M.B.B.S.", "Housefull", "Golmaal Again", "Phir Hera Pheri"],
+    "answer": "Munna Bhai M.B.B.S."
+  },
+  {
+    "id": 20,
+    "question": "In the movie 'Sholay', who played the role of 'Gabbar Singh'?",
+    "options": ["Amjad Khan", "Amrish Puri", "Prem Chopra", "Pran"],
+    "answer": "Amjad Khan"
+  }
+]
+}
